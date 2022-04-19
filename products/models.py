@@ -22,3 +22,7 @@ class TablaItems(models.Model):
 #     cantidad =models.IntegerField(null=False)
 #     monto_comision = models.DecimalField(max_digits=2,decimal_places=1)
 #     total_item =models.DateTimeField(max_digits=2,decimal_places=1)
+
+
+class TablaPrueba(models.Model):
+    pass
